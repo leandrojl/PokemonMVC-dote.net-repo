@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\PracticaMVC\MVC.Servicio\bin\Debug\net8.0\MVC.Servicio.deps.json
+C:\Users\Usuario\source\repos\PracticaMVC\MVC.Servicio\bin\Debug\net8.0\MVC.Servicio.dll
+C:\Users\Usuario\source\repos\PracticaMVC\MVC.Servicio\bin\Debug\net8.0\MVC.Servicio.pdb
+C:\Users\Usuario\source\repos\PracticaMVC\MVC.Servicio\bin\Debug\net8.0\MVC.Entidades.dll
+C:\Users\Usuario\source\repos\PracticaMVC\MVC.Servicio\bin\Debug\net8.0\MVC.Entidades.pdb
+C:\Users\Usuario\source\repos\PracticaMVC\MVC.Servicio\obj\Debug\net8.0\MVC.Servicio.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\PracticaMVC\MVC.Servicio\obj\Debug\net8.0\MVC.Servicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\PracticaMVC\MVC.Servicio\obj\Debug\net8.0\MVC.Servicio.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\PracticaMVC\MVC.Servicio\obj\Debug\net8.0\MVC.Servicio.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\PracticaMVC\MVC.Servicio\obj\Debug\net8.0\MVC.Servicio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\PracticaMVC\MVC.Servicio\obj\Debug\net8.0\MVC.Serv.AD282D79.Up2Date
+C:\Users\Usuario\source\repos\PracticaMVC\MVC.Servicio\obj\Debug\net8.0\MVC.Servicio.dll
+C:\Users\Usuario\source\repos\PracticaMVC\MVC.Servicio\obj\Debug\net8.0\refint\MVC.Servicio.dll
+C:\Users\Usuario\source\repos\PracticaMVC\MVC.Servicio\obj\Debug\net8.0\MVC.Servicio.pdb
+C:\Users\Usuario\source\repos\PracticaMVC\MVC.Servicio\obj\Debug\net8.0\ref\MVC.Servicio.dll

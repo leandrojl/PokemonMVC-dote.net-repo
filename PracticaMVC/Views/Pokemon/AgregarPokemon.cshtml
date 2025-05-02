@@ -1,0 +1,21 @@
+﻿@model MVC.Entidades.Pokemon//PracticaMVC -> Dependencies-> (click derecho, add project reference) -> seleccionar MVC.Entiadades y agregar como dependenciapara que esta linea funcione
+@{
+   
+}
+<h1>Agregar Pokémon</h1>
+
+<form asp-controller="Pokemon" asp-action="AgregarPokemon">
+    <div class="form-group">
+        <label asp-for="nombre" class="control-label"></label>
+        <input asp-for="nombre" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="tipo" class="control-label"></label>
+        <input asp-for="tipo" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="imagen" class="control-label"></label>
+        <input asp-for="imagen" class="form-control" />
+    </div>
+	<button type="submit" class="btn btn-primary">Agregar</button>
+</form>

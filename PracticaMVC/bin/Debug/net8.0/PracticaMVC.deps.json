@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PracticaMVC/1.0.0": {
+        "dependencies": {
+          "MVC.Entidades": "1.0.0",
+          "MVC.Servicio": "1.0.0"
+        },
+        "runtime": {
+          "PracticaMVC.dll": {}
+        }
+      },
+      "MVC.Entidades/1.0.0": {
+        "runtime": {
+          "MVC.Entidades.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MVC.Servicio/1.0.0": {
+        "dependencies": {
+          "MVC.Entidades": "1.0.0"
+        },
+        "runtime": {
+          "MVC.Servicio.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PracticaMVC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MVC.Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MVC.Servicio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

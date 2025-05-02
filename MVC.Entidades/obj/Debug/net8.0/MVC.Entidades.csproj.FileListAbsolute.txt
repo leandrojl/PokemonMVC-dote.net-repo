@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\PracticaMVC\MVC.Entidades\bin\Debug\net8.0\MVC.Entidades.deps.json
+C:\Users\Usuario\source\repos\PracticaMVC\MVC.Entidades\bin\Debug\net8.0\MVC.Entidades.dll
+C:\Users\Usuario\source\repos\PracticaMVC\MVC.Entidades\bin\Debug\net8.0\MVC.Entidades.pdb
+C:\Users\Usuario\source\repos\PracticaMVC\MVC.Entidades\obj\Debug\net8.0\MVC.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\PracticaMVC\MVC.Entidades\obj\Debug\net8.0\MVC.Entidades.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\PracticaMVC\MVC.Entidades\obj\Debug\net8.0\MVC.Entidades.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\PracticaMVC\MVC.Entidades\obj\Debug\net8.0\MVC.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\PracticaMVC\MVC.Entidades\obj\Debug\net8.0\MVC.Entidades.dll
+C:\Users\Usuario\source\repos\PracticaMVC\MVC.Entidades\obj\Debug\net8.0\refint\MVC.Entidades.dll
+C:\Users\Usuario\source\repos\PracticaMVC\MVC.Entidades\obj\Debug\net8.0\MVC.Entidades.pdb
+C:\Users\Usuario\source\repos\PracticaMVC\MVC.Entidades\obj\Debug\net8.0\ref\MVC.Entidades.dll

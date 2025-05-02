@@ -1,0 +1,26 @@
+﻿@model List<MVC.Entidades.Pokemon> //PracticaMVC -> Dependencies-> (click derecho, add project reference) -> seleccionar MVC.Entiadades y agregar como dependenciapara que esta linea funcione
+@{
+    ViewData["Title"] = "Pokemon";
+}
+<h1>Pokemons</h1>
+
+<table class="table">
+	<thead>
+		<tr>
+			
+			<th>Nombre</th>
+			<th>Tipo</th>
+			<th>Imagen</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var pokemon in Model)
+		{
+			<tr>
+				
+				<td>@pokemon.nombre</td>
+				<td>@pokemon.tipo</td>
+				<td><img src="/imagenes/@pokemon.imagen" alt="@pokemon.imagen" width="100" /></td>
+			</tr>
+		}
+	</tbody>

@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "PracticaMVC.Controllers.api.ApiPokemonController",
+    "Method": "Get",
+    "RelativePath": "api/ApiPokemon",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[MVC.Entidades.Pokemon, MVC.Entidades, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PracticaMVC.Controllers.api.ApiPokemonController",
+    "Method": "agregarPokemon",
+    "RelativePath": "api/ApiPokemon",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pokemon",
+        "Type": "MVC.Entidades.Pokemon",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

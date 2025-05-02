@@ -1,0 +1,14 @@
+﻿@PracticaMVC_HostAddress = https://localhost:7281
+
+POST {{PracticaMVC_HostAddress}}/api/apipokemon
+Content-Type: application/json
+
+{
+  //Pokemon
+}
+
+###
+
+GET {{PracticaMVC_HostAddress}}/api/apipokemon
+
+###
